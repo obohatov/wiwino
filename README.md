@@ -43,7 +43,7 @@ Besides answering the questions, we provided creative insights and recommendatio
 We faced certain issues with the database regarding the linking of wineries with wines, inconsistency in wine count, and a lack of clarity on user structure count.
 
 ## Visualizations
-You can find the visualizations of our data analysis in our [presentation](./assets/Wiwino market analysis.pdf).
+You can find the visualizations of our data analysis in our [presentation](./assets/wiwino.pdf).
 
 ## Tools Used
 * SQL for data extraction and analysis
